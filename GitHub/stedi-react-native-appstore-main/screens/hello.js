@@ -1,5 +1,5 @@
 const hello=()=>{
-    return "Brent";
+    return "Hello";
 }
 
 hello();
