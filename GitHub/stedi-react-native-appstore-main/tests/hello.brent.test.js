@@ -1,4 +1,4 @@
-import hello from "../screens/hello"
+import hello from "../utils/hello.brent"
 
 it("Should say hello",()=>{
     const helloString=hello();
